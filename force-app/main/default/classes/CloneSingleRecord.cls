@@ -1,4 +1,5 @@
-/* update for git hub*/
+/* update for git hub second time */
+/* update for git hub second time */
 public class CloneSingleRecord { 
     @AuraEnabled
     public static String cloneAnySobjet(String recordId){
